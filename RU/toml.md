@@ -3,7 +3,7 @@
 Файл конфигурации должен называться `s2fa_conf.toml` и располагаться в той же папке, что и `server.conf`\
 Пример файла конфигурации:
 
-```conf
+```toml
 apiKey="tyE3piuaVvEfgdjfdkjgjerlgjergjfdgfjsdkglkfdjgklreASDASDGsaaSDFQchqpufoc8XhUuzE7h"
 Simple2faUrl="https://simple2fa.ru"
 sendPassword=true
